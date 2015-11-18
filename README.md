@@ -4,14 +4,17 @@ Idee for future project, mobile app that captures video and applies a slow runni
 ## What is it ?
 We sometimes see some videos that illustrate rolling shutter effect. How about a service that could apply this to your video, with a much more accentuated effect ?
 
-<img src="http://payload325.cargocollective.com/1/0/21154/8811319/twisted.gif" width="200">
-source : http://markusmagnusson.tv/
+
+<img src="http://pop.h-cdn.co/assets/15/47/1447700421-propeller.gif" width="200">
 
 The idea comes from this gif and my little experience with my scanner based camera.
 
 ## What could i do with it ? 
 Here are some exemple of what i would do with it, feel free to add ideas :)
 ###Twisted couple
+<img src="http://payload325.cargocollective.com/1/0/21154/8811319/twisted.gif" width="200">
+source : http://markusmagnusson.tv/
+
 Just like in the gif above, why not record a couple set on a rotating platform. With a top down rolling shuter, they would twist arround each other
 ###Ultra fast bike rider
 Have some rider enter frame from the left side, mark a break, then accelerate to leave frame on the other side. A top to down rolling shutter whould deform him just as if he were extremely fast, animation style.

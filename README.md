@@ -28,7 +28,7 @@ User gets the gif back from the service.
 ### Mobile App
 * HTML5 web app. No native. 
 * Could be installed on FxOS and Android via Chrome maybe ?
-* Would rely on WebRTC http://www.html5rocks.com/en/tutorials/getusermedia/intro/
+* Would rely on WebRTC http://www.html5rocks.com/en/tutorials/getusermedia/intro/  and https://davidwalsh.name/browser-camera and https://simpl.info/getusermedia/sources/
 * Consider placing frames extraction on client for bandwith and service computational requieremetns savings
 
 ### Server Components
